@@ -66,9 +66,6 @@ export default class Modal extends Component {
                 >
                   Close
                 </button>
-                <button type="button" className="btn btn-primary">
-                  Add to cart
-                </button>
               </div>
             </div>
           </div>
